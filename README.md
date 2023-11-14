@@ -4,6 +4,7 @@
  • <a href="#-sobre-o-projeto">Sobre o Projeto</a> </br>
  • <a href="#-tecnologias">Tecnologias</a> </br>
  • <a href="#-layout">Layout</a> </br>
+  • <a href="#-navegacao">Navegação</a> </br>
  • <a href="#-autor">Autor</a> </br>
 </div>
 
@@ -34,21 +35,42 @@ o mercado de arquitetura.
 
 Veja o layout da aplicação:
 
-## Pagina Inicial:
+#### **Pagina Inicial:**
 <div align="center">
   <img src="./.github/layout.png" alt="layout">
 </div>
 
-## Página Projetos:
+#### **Página Projetos:**
 <div align="center">
   <img src="./.github/projetos.png" alt="layout">
 </div>
 
-## Página Sobre Nós:
+#### **Página Sobre Nós:**
 <div align="center">
   <img src="./.github/sobre-nos.png" alt="layout">
 </div>
 
+## Navegação no site:
+
+#### **Desktop - Página Inicial**
+<div align="center">
+  <img src="./.github/navegacao-1.gif" alt="layout">
+</div>
+
+#### **Desktop - Página Projetos**
+<div align="center">
+  <img src="./.github/navegacao-2.gif" alt="layout">
+</div>
+
+#### **Mobile - Página Inicial**
+<div align="center">
+  <img src="./.github/navegacao-3.gif" alt="layout">
+</div>
+
+#### **Mobile - Página Projetos**
+<div align="center">
+  <img src="./.github/navegacao-4.gif" alt="layout">
+</div>
 
 # Entre em contato
 
