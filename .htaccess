@@ -1,0 +1,12 @@
+RewriteEngine on
+# Options +MultiViews
+ErrorDocument 404 404
+Options +FollowSymLinks -MultiViews
+ 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME} !-f
+
+ 
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+ 
+ 

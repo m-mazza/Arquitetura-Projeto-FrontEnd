@@ -1,0 +1,75 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+@media (min-width: 0px){
+    .container-card {
+        height: 230px;
+    }
+}
+@media (min-width: 1200px){
+    .container-card {
+        height: 35vh;
+    }
+}
+
+.container-card {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgb(0, 0, 0) 1%, rgb(70, 70, 70) 62%);
+    font-family: 'Montserrat', sans-serif;
+}
+.container-img {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    bottom: -65px;
+    width: 195px;
+    z-index: 1;
+    border-radius: 50%;
+    border: 8px solid #fff;
+    background-color: #fff;
+    padding: 0 !important;
+    overflow:hidden;
+}
+.container-img img {
+    width: 100%;
+}
+.box-central {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 45px;
+    height: 100%;
+}
+.bg-black {
+    background: #000;
+}
+.btn-dark {
+    padding: 0.8rem;
+    border-radius: 35px;
+    text-transform: uppercase;
+    font-size: 11px;
+}
+.nome {
+    color: black;
+    font-weight: 700;
+}
+.endereco {
+    color: black;
+    font-weight: 500;
+    line-height: 1.3rem;
+}
+.logo {
+    width: 125px;
+}
+.icone {
+    background: black;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
