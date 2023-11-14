@@ -17,7 +17,7 @@ visando criar uma presença na internet de maneira elegante e coerente com
 o mercado de arquitetura.
 
 
-- Veja uma prévia do projeto : <a href="https://m-mazza.github.io/projeto_frontend/previa" target="_blank">Projeto Arquitetura</a>
+- Veja uma prévia do projeto : [Arquitetura](https://m-mazza.github.io/projeto_frontend/previa){:target="_blank"}
 
 
 <a id="-tecnologias"></a>
