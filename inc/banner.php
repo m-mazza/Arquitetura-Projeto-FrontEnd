@@ -21,6 +21,3 @@
     $diretorio -> close();
     ?> 
 </div>
-<style>
-
-</style>
