@@ -19,6 +19,7 @@ o mercado de arquitetura.
 <a id="-tecnologias"></a>
 ## Tecnologias
 
+
 #### **Website**
 <div>
   <!-- HTML 5 -->
@@ -31,13 +32,13 @@ o mercado de arquitetura.
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-- [Glightbox](https://biati-digital.github.io/glightbox/)
-- [Jquery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/)
-- [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
-- [Php Mailer](https://github.com/PHPMailer/PHPMailer)
 
 #### **Utilitários**
 
+- Album: **[Glightbox](https://biati-digital.github.io/glightbox/)**
+- Máscara de Formulário: **[Jquery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/)**
+- Carrossel de Imagens:  **[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)**
+- Envio de Emails Autenticados: **[Php Mailer](https://github.com/PHPMailer/PHPMailer)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 - Fontes: **[Montserrat](https://fonts.google.com/specimen/Montserrat?query=montserrat)**
 - Icones: **[Font Awesome](https://fontawesome.com/)**
