@@ -39,10 +39,14 @@ Pagina Inicial:
   <img src="./.github/layout.png" alt="layout">
 </div>
 
+
+
 Página Projetos:
 <div align="center">
   <img src="./.github/projetos.png" alt="layout">
 </div>
+
+
 
 Página Sobre Nós:
 <div align="center">
