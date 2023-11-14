@@ -4,11 +4,11 @@
  • <a href="#-sobre-o-projeto">Sobre o Projeto</a> </br>
  • <a href="#-tecnologias">Tecnologias</a> </br>
  • <a href="#-layout">Layout</a> </br>
-  • <a href="#-navegacao">Navegação</a> </br>
- • <a href="#-autor">Autor</a> </br>
+ • <a href="#-navegacao">Navegação</a> </br>
+ • <a href="#-entre em contato">Autor</a> </br>
 </div>
 
-## Sobre o projeto
+## [Sobre o projeto](#-sobre-o-projeto) 
 
 Arquitetura é um layout criado para o segmento de arquiteura e urbanismo
 visando criar uma presença na internet de maneira elegante e coerente com 
