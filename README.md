@@ -34,7 +34,6 @@ o mercado de arquitetura.
 
 
 <a id="-layout"></a>
-
 ## Layout
 
 Veja o layout da aplicação:
@@ -80,9 +79,7 @@ Veja o layout da aplicação:
 
 
 <a id="-autor"></a>
-
 ## Entre em contato
 
 **Linkedin**: https://www.linkedin.com/in/marcus-mazza-5a6497190/
-
 Desenvolvido por **Marcus Mazza**
