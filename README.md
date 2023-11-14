@@ -8,15 +8,16 @@
  • <a href="#-entre em contato">Autor</a> </br>
 </div>
 
+
+<a id="-sobre-o-projeto"></a>
 ## Sobre o projeto 
-<a id="-sobre-o-projeto">
 
 Arquitetura é um layout criado para o segmento de arquiteura e urbanismo
 visando criar uma presença na internet de maneira elegante e coerente com 
 o mercado de arquitetura.
 
+<a id="-tecnologias"></a>
 ## Tecnologias
-<a id="-tecnologias">
 
 #### **Website** ( [Bootstrap](https://getbootstrap.com/) + [jQuery](https://jquery.com/) + [PHP](https://www.php.net/) )
 
@@ -32,8 +33,10 @@ o mercado de arquitetura.
 - Icones: **[Font Awesome](https://fontawesome.com/)**
 
 
-## Layout
 <a id="-layout"></a>
+
+## Layout
+
 Veja o layout da aplicação:
 
 #### **Pagina Inicial:**
@@ -51,6 +54,8 @@ Veja o layout da aplicação:
   <img src="./.github/sobre-nos.png" alt="layout">
 </div>
 
+
+<a id="-navegacao"></a>
 ## Navegação no site:
 
 #### **Desktop - Página Inicial**
@@ -73,7 +78,10 @@ Veja o layout da aplicação:
   <img src="./.github/navegacao-4.gif" alt="layout">
 </div>
 
-# Entre em contato
+
+<a id="-autor"></a>
+
+## Entre em contato
 
 **Linkedin**: https://www.linkedin.com/in/marcus-mazza-5a6497190/
 
