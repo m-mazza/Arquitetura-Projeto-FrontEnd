@@ -1,7 +1,7 @@
 ## Tópicos
 
 <div>
- • [Sobre o Projeto](#sobre-o-projeto) </br>
+ • <a href="#-sobre-o-projeto">Sobre o Projeto</a> </br>
  • <a href="#-tecnologias">Tecnologias</a> </br>
  • <a href="#-layout">Layout</a> </br>
  • <a href="#-navegacao">Navegação</a> </br>
@@ -9,13 +9,14 @@
 </div>
 
 ## Sobre o projeto 
-<a id="sobre-o-projeto">
+<a id="-sobre-o-projeto">
 
 Arquitetura é um layout criado para o segmento de arquiteura e urbanismo
 visando criar uma presença na internet de maneira elegante e coerente com 
 o mercado de arquitetura.
 
 ## Tecnologias
+<a id="-tecnologias">
 
 #### **Website** ( [Bootstrap](https://getbootstrap.com/) + [jQuery](https://jquery.com/) + [PHP](https://www.php.net/) )
 
@@ -23,7 +24,6 @@ o mercado de arquitetura.
 - [Jquery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/)
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 - [Php Mailer](https://github.com/PHPMailer/PHPMailer)
-
 
 #### **Utilitários**
 
@@ -33,7 +33,7 @@ o mercado de arquitetura.
 
 
 ## Layout
-
+<a id="-layout"></a>
 Veja o layout da aplicação:
 
 #### **Pagina Inicial:**
