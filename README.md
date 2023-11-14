@@ -34,19 +34,17 @@ o mercado de arquitetura.
 
 Veja o layout da aplicação:
 
-Pagina Inicial:
+## Pagina Inicial:
 <div align="center">
   <img src="./.github/layout.png" alt="layout">
 </div>
-&nbsp;
-&nbsp;
-Página Projetos:
+
+## Página Projetos:
 <div align="center">
   <img src="./.github/projetos.png" alt="layout">
 </div>
-&nbsp;
-&nbsp;
-Página Sobre Nós:
+
+## Página Sobre Nós:
 <div align="center">
   <img src="./.github/sobre-nos.png" alt="layout">
 </div>
