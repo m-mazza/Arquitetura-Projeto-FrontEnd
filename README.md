@@ -20,6 +20,7 @@ o mercado de arquitetura.
 ## Tecnologias
 
 #### **Website**
+<div>
   <!-- HTML 5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <!-- CSS3 -->
@@ -28,6 +29,7 @@ o mercado de arquitetura.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <!-- PHP -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</div>
 
 - [Glightbox](https://biati-digital.github.io/glightbox/)
 - [Jquery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/)
