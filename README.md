@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./.github/tela.gif" alt="Banner-project" />
-</div>
-
 ## Tópicos
 
 <div>
@@ -24,7 +20,7 @@ o mercado de arquitetura.
 - [Glightbox](https://biati-digital.github.io/glightbox/)
 - [Jquery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/)
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
-- [Php Mailer](hhttps://github.com/PHPMailer/PHPMailer)
+- [Php Mailer](https://github.com/PHPMailer/PHPMailer)
 
 
 #### **Utilitários**
@@ -38,8 +34,19 @@ o mercado de arquitetura.
 
 Veja o layout da aplicação:
 
+Pagina Inicial:
 <div align="center">
-  <img src="./.github/layout.png" alt="layout" />
+  <img src="./.github/layout.png" alt="layout">
+</div>
+
+Página Projetos:
+<div align="center">
+  <img src="./.github/projetos.png" alt="layout">
+</div>
+
+Página Sobre Nós:
+<div align="center">
+  <img src="./.github/sobre-nos.png" alt="layout">
 </div>
 
 
