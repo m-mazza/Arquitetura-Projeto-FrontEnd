@@ -19,7 +19,15 @@ o mercado de arquitetura.
 <a id="-tecnologias"></a>
 ## Tecnologias
 
-#### **Website** ( [Bootstrap](https://getbootstrap.com/) + [jQuery](https://jquery.com/) + [PHP](https://www.php.net/) )
+#### **Website**
+  <!-- HTML 5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!-- Javasrcript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 - [Glightbox](https://biati-digital.github.io/glightbox/)
 - [Jquery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/)
