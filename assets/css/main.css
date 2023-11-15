@@ -643,6 +643,7 @@ a:hover { text-decoration: none; }
         color: #fff;
         font-size: 2rem;
         display: block;
+        cursor: pointer;
     }
     .navbar-fixed .mobile-trigger i { 
         color: #000;
@@ -858,6 +859,7 @@ a:hover { text-decoration: none; }
         color: #fff;
         font-size: 2rem;
         display: block;
+        cursor: pointer;
     }
     .navbar-fixed .mobile-trigger i { 
         color: #000;
@@ -1073,6 +1075,7 @@ a:hover { text-decoration: none; }
         color: #fff;
         font-size: 2rem;
         display: block;
+        cursor: pointer;
     }
     .navbar-fixed .mobile-trigger i { 
         color: #000;
@@ -1318,6 +1321,7 @@ a:hover { text-decoration: none; }
         color: #fff;
         font-size: 2rem;
         display: block;
+        cursor: pointer;
     }
     .navbar-fixed .mobile-trigger i { 
         color: #000;

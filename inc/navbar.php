@@ -51,7 +51,7 @@
                                 <i class="las la-phone"></i>
                             </div>
                         </a>
-                        <a href="mailto:pruma@prumaarquitetura.com.br">
+                        <a href="mailto:m-mazza@live.com">
                             <div class="email">
                                 <i class="las la-envelope"></i>
                             </div>
