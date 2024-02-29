@@ -17,7 +17,7 @@ visando criar uma presença na internet de maneira elegante e coerente com
 o mercado de arquitetura.
 
 
-- Veja uma prévia do projeto : **[Arquitetura](https://m-mazza.github.io/projeto_frontend/previa/)**
+- Veja uma prévia do projeto : **[Arquitetura](https://m-mazza.github.io/Arquitetura-Projeto-FrontEnd/previa/)**
 
 
 <a id="-tecnologias"></a>
